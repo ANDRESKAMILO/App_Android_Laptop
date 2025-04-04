@@ -50,6 +50,7 @@ Ahora que ya tenemos el "PRD" del proyecto, por favor generame los respectivos T
 
 **Consideraciones y reglas** 
 
-1- La planeación y estructuración de los Tickets, deben ser considerando que son 2 personas para el desarrollo del proyecto. 
+1- La planeación y estructuración de los Tickets, deben ser considerando que son 2 personas para el desarrollo del proyecto.
+ 
 2- Debes tener en cuenta de que en base a estos Tickets se desarrollara el cronograma de trabajos y tiempos. Cualquier duda o si requieres mas contexto. preguntame.
 
