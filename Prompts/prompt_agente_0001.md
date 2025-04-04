@@ -1,5 +1,5 @@
 
-### Prompt_1
+### Prompt_1 Copilot free / Think Deeper
 
 # Role: HOLA, Actua como un experto en Sistemas y Desarrollando Software. 
 
@@ -36,8 +36,19 @@ Lo requiero para publicarlo en un repositorio en GitHub como un "README.md".
 	Copia la URL (HTTPS o SSH, según tu preferencia). 
 	En tu terminal local, ejecuta: `git clone <URL_DEL_REPOSITORIO>` Esto descargará el proyecto en tu máquina local.
 	
-### Prompt_2:
+### Prompt_2: Copilot free / Think Deeper
 Proporcióname más detalles sobre la instalación de BlueStacks.
 
-### Prompt_3:
+### Prompt_3: Copilot free / Think Deeper
 ¿Cuáles son los requisitos del sistema para BlueStacks?
+
+### Prompt_4 Copilot free / Think Deeper
+Ahora Actua como un experto en producto y analista de diseño, Proporcioname el PRD del proyecto con un posible "Nombre" para el proyecto que estamos trabajando.
+
+### Prompt_5 Copilot free / Think Deeper
+Ahora que ya tenemos el "PRD" del proyecto, por favor generame los respectivos Tickets de trabajo. 
+
+**Consideraciones y reglas** 
+1- La planeación y estructuración de los Tickets, deben ser considerando que son 2 personas para el desarrollo del proyecto. 
+2- Debes tener en cuenta de que en base a estos Tickets se desarrollara el cronograma de trabajos y tiempos. Cualquier duda o si requieres mas contexto. preguntame.
+
