@@ -1,0 +1,155 @@
+00:00:05
+
+
+Orador 1
+Entonces, proyecto final de Bootcamp, vamos a ir pasito a pasito.
+00:00:09
+
+
+Orador 1
+Lo primero es decidir en qué va a consistir.
+00:00:13
+1
+
+Orador 1
+Ya lo habíamos adelantado, pero básicamente se trata de desarrollar un producto de software básico de inicio a fin, apoyado en IA en todas las fases del ciclo de vida, desde la definición hasta la entrega en un servidor que podamos acceder públicamente.
+00:00:29
+
+
+Orador 1
+¿Valle?
+00:00:33
+
+
+Orador 1
+Lo primero documentación.
+00:00:34
+
+
+Orador 1
+Y haciendo un poco resumen de lo que hemos ido viendo hasta aquí en el programa, no sólo es la parte de documentación del producto, lo que puede ser ese documento de requisitos del producto donde está las funcionalidades básicas, requisitos funcionales, no funcionales, etc.
+00:00:50
+
+
+Orador 1
+También el documento de arquitectura, el documento de modelo de datos, las especificaciones de la API en caso de que las haya, documentar quizá las buenas prácticas que estáis utilizando dentro del código, todo ello en texto, con diagramas, etc.
+00:01:06
+
+
+Orador 1
+Pero también del proceso, aquí estamos hablando más de lo que eran las épicas historias de usuario.
+00:01:12
+
+
+Orador 1
+Y finalmente los tickets de trabajo que vais a estar desarrollando, que a vosotros os ayude a planificar vuestro trabajo, pero que nos lo entreguéis como un artefacto que forme parte del proceso y que esos artefactos estén apoyados en IA.
+00:01:27
+
+
+Orador 1
+El debate sobre qué vais a construir, la documentación de esas historias de usuarios, esos tickets estén apoyados en IA, tal y como hicimos en el ejercicio.
+00:01:41
+1
+
+Orador 1
+Más allá de la documentación, estamos hablando de los test, tanto unitarios como los test de integración, estamos hablando del backend, el frontend, también por supuesto la base de datos y estamos hablando de la infraestructura.
+00:01:57
+
+
+Orador 1
+Estamos hablando de desplegar en un servidor que sea accesible, no tiene por qué ser un servidor de pago, puede ser una instancia gratuita de la capa gratuita de cualquiera de las nubes disponibles, puede ser Heroku, puede ser Netlify, por ejemplo, para todo el tema del frontend, puede ser cualquier tipo de servidor que nos permita a nosotros acceder a través de una URL,  no tiene por qué ser un dominio propio que compréis, simplemente que podamos navegar ese producto y poder analizarlo desde dentro.
+00:02:30
+1
+
+Orador 1
+Ese es el concepto básico detrás del proyecto.
+00:02:34
+
+
+Orador 1
+¿Ahora, cómo lo vamos a hacer?
+00:02:36
+
+
+Orador 1
+Pues vamos a ir fase a fase.
+00:02:39
+
+
+Orador 1
+Lo primero, vais a poder elegir el lenguaje de programación.
+00:02:43
+
+
+Orador 1
+Sé que la mayoría de ejercicios que hemos hecho durante el programa al estado relativos al stack JavaScript, typescript, podéis utilizar cualquiera de los más comunes, sería JavaScript o Typescript, java, Php o Python.
+00:03:03
+
+
+Orador 1
+Cualquiera de estos cuatro lenguajes va a ser admitido para este proyecto final.
+00:03:09
+
+
+Orador 1
+Lo otro que vais a poder elegir, evidentemente es el producto que queréis construir.
+00:03:15
+
+
+Orador 1
+Y aquí os comento un par de cosas.
+00:03:22
+
+
+Orador 1
+Hay como dos vertientes principales por un lado que sea relativo a vuestro trabajo diario, tanto a la industria como incluso al tipo de software que estáis creando.
+00:03:33
+
+
+Orador 1
+Esto ideal sobre todo para los emprendedores que tenéis la idea bastante clave y que queréis utilizar estas 30 h, que va a ser el esfuerzo que va a requerir, lo queráis utilizar para tener una primera versión del software que os permita validar en el mercado.
+00:03:51
+
+
+Orador 1
+También si veis que vais bastante pillados y queréis facilitaros el trabajo en ese sentido, sobre todo el de investigación, etc.
+00:04:00
+
+
+Orador 1
+Pues utilizar un contexto en el que trabajáis en el día a día os va a ayudar a definir las cosas más rápido y a no tener que preguntar, no tener que investigar previamente sobre esa industria si no la conocéis o sobre ese tipo de software.
+00:04:14
+
+
+Orador 1
+Imaginaros que estáis acostumbrados a hacer software de tipo SaaS de pago por uso, pues no es lo mismo crear otro SaaS donde sabéis lo importante que es la parte del login, los permisos, los roles dentro del sistema, etc.
+00:04:29
+
+
+Orador 1
+Que si hicierais un marketplace.
+00:04:32
+
+
+Orador 1
+Puede que tanto a nivel de interfaces como a nivel de los componentes principales como la propia arquitectura, pues no seáis tan expertos y prefiráis ir a lo seguro.
+00:04:43
+
+
+Orador 1
+En ese caso, si utilizáis vuestro expertise antiguo o el actual o sabéis lo que queréis construir para definir vuestro futuro como emprendedores y lo tenéis claro, perfecto.
+00:04:54
+
+
+Orador 1
+Si queréis utilizarlo para un prototipo o un experimento de parte de la empresa donde tengáis el beneplácito de la empresa y hayáis hablado con ellos de que esto vais a poder usarlo para este feedback y si hace falta hay algún tipo de supervisión por parte de la empresa a nivel de cómo lo publicáis para que lo podamos corregir,  etcetera.
+00:05:15
+
+
+Orador 1
+Este acuerdo, podéis llegar con este acuerdo a la empresa y por nuestra parte no va a haber ningún problema.
+00:05:21
+
+
+Orador 1
+Todo lo que pueda ser un proyecto que sea usable de verdad por usuarios finales, ya sea por vuestro propio emprendimiento o porque la empresa con la que trabajáis acepta, pilotéis alrededor de un producto para la marca que os.
